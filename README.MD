@@ -12,7 +12,7 @@ This scripts monitors disk and memory usage on a GCE Linx VM and:
 ## Technologies Used
 
 -Bash 
-- 'df' , 'free' , 'awk' , 'sed'
+-  'free' , 'awk' , 'sed'
 - Crontab
 
 ## Usage
